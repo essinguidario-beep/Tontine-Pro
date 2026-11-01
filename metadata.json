@@ -1,0 +1,6 @@
+{
+  "name": "TontinePro",
+  "description": "Plateforme SaaS moderne pour la gestion transparente des tontines, cotisations, bénéficiaires et Mobile Money au Cameroun et en Afrique francophone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

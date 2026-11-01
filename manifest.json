@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "TontinePro – Gestion de Tontines",
+  "short_name": "TontinePro",
+  "description": "Gérez vos tontines simplement, partout et en toute transparence en Afrique francophone.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#064e3b",
+  "theme_color": "#064e3b",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
